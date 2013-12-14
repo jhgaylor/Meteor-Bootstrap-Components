@@ -1,4 +1,1 @@
-Meteor-Bootstrap-Components
-===========================
-
-Bootstrap Component Helpers for Meteor
+Work has been merged into [the original](https://github.com/silentwarrior/Meteor-Bootstrap-Components) and will continue there.
